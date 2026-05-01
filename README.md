@@ -2,7 +2,7 @@
 <h3 align="center">Cybersecurity Technologist · Founder of <a href="https://kumari.ai">Kumari.ai</a></h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=themilton&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=iamresham&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <a href="https://reshamchaudhary.com"><img src="https://img.shields.io/badge/website-reshamchaudhary.com-1f6feb?style=flat&logo=safari&logoColor=white" /></a>
   <a href="https://linkedin.com/in/reshamchaudhary"><img src="https://img.shields.io/badge/LinkedIn-reshamchaudhary-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/raysome_"><img src="https://img.shields.io/badge/X-@raysome__-000000?style=flat&logo=x&logoColor=white" /></a>
@@ -23,12 +23,12 @@ I'm a cybersecurity-focused technologist working across Linux administration, ne
 
 | Project | What it is |
 | --- | --- |
-| [**kubernetes-production-cluster-kubeadm**](https://github.com/themilton/kubernetes-production-cluster-kubeadm) | Full HA Kubernetes from scratch with kubeadm, Calico BGP, MetalLB, cert-manager |
-| [**terraform-at-scale-lessons**](https://github.com/themilton/terraform-at-scale-lessons) | IaC patterns for 1,200+ resources, state surgery, the import that saved my weekend |
-| [**gitops-argocd-k3s-homelab**](https://github.com/themilton/gitops-argocd-k3s-homelab) | GitOps on a homelab k3s cluster with ArgoCD |
-| [**proxmox-homelab-devops**](https://github.com/themilton/proxmox-homelab-devops) | Three-node Proxmox cluster, VLANs, isolated pen-test lab |
-| [**zero-downtime-cicd-jenkins-docker**](https://github.com/themilton/zero-downtime-cicd-jenkins-docker) | Blue-green CI/CD with auto-rollback after a 40-min Friday outage taught me a lesson |
-| [**azure-multi-region-architecture**](https://github.com/themilton/azure-multi-region-architecture) | Five-nines architecture on a $2,800/month budget |
+| [**kubernetes-production-cluster-kubeadm**](https://github.com/iamresham/kubernetes-production-cluster-kubeadm) | Full HA Kubernetes from scratch with kubeadm, Calico BGP, MetalLB, cert-manager |
+| [**terraform-at-scale-lessons**](https://github.com/iamresham/terraform-at-scale-lessons) | IaC patterns for 1,200+ resources, state surgery, the import that saved my weekend |
+| [**gitops-argocd-k3s-homelab**](https://github.com/iamresham/gitops-argocd-k3s-homelab) | GitOps on a homelab k3s cluster with ArgoCD |
+| [**proxmox-homelab-devops**](https://github.com/iamresham/proxmox-homelab-devops) | Three-node Proxmox cluster, VLANs, isolated pen-test lab |
+| [**zero-downtime-cicd-jenkins-docker**](https://github.com/iamresham/zero-downtime-cicd-jenkins-docker) | Blue-green CI/CD with auto-rollback after a 40-min Friday outage taught me a lesson |
+| [**azure-multi-region-architecture**](https://github.com/iamresham/azure-multi-region-architecture) | Five-nines architecture on a $2,800/month budget |
 
 ### Tech I work with
 
@@ -53,8 +53,8 @@ I'm a cybersecurity-focused technologist working across Linux administration, ne
 ### Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=themilton&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themilton&layout=compact&theme=dark&hide_border=true&langs_count=10" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=iamresham&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamresham&layout=compact&theme=dark&hide_border=true&langs_count=10" />
 </p>
 
 ### Reach me
