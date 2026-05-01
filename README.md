@@ -10,7 +10,7 @@
 
 ---
 
-I'm a cybersecurity-focused technologist working across Linux administration, networking, virtualization, DevOps, and AI/agentic systems. Most of what's on this profile started in my homelab — three Dell OptiPlexes, a managed switch, and a willingness to break things until I understood them.
+I'm a cybersecurity-focused technologist working across Linux administration, networking, virtualization, DevOps, and AI/agentic systems. Most of what's on this profile started in my homelab three Dell OptiPlexes, a managed switch, and a willingness to break things until I understood them.
 
 Currently a B.S. Cybersecurity student at **DePaul University** (graduating Dec 2027), minor in Data Science & Software Engineering.
 
@@ -33,7 +33,7 @@ Currently a B.S. Cybersecurity student at **DePaul University** (graduating Dec 
 
 ### Featured writing
 
-Long-form deep-dives at **[reshamchaudhary.com](https://reshamchaudhary.com)** — homelab war stories and infrastructure post-mortems. A few I'd point to first:
+Long-form deep-dives at **[reshamchaudhary.com](https://reshamchaudhary.com)** homelab war stories and infrastructure post-mortems. A few I'd point to first:
 
 - [Self-Hosting a Production Email Server — Postfix, Dovecot, Rspamd, and Why I Don't Regret It](https://reshamchaudhary.com/homelab/self-hosting-production-email-server)
 - [Building Production Kubernetes From Scratch with kubeadm — No Managed K8s, No Shortcuts](https://reshamchaudhary.com/homelab/kubernetes-production-cluster-kubeadm)
