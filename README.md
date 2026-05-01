@@ -1,69 +1,65 @@
-[![MasterHead](https://iili.io/rPy81p.png)](https://github.com/themilton.github.io)
-<h1 align="center">Hi 👋, I'm Milton</h1>
-<h3 align="center">A passionate Cybersecurity Learner from NEPAL</h3>
-<img align="right" alt="Coding" width=400" src="https://media.giphy.com/media/JTTAjM197sku8MgrRa/giphy.gif">
+<h1 align="center">Hi, I'm Resham 👋</h1>
+<h3 align="center">Cybersecurity Technologist · Founder of <a href="https://kumari.ai">Kumari.ai</a></h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=themilton&label=Profile%20views&color=0e75b6&style=flat" alt="themilton" /> </p>
-
-<p align="left"> <a href="https://twitter.com/themilton11" target="blank"><img src="https://img.shields.io/twitter/follow/themilton11?logo=twitter&style=for-the-badge" alt="themilton11" /></a> </p>
-
-- 🔭 I’m currently working on **my own personal project**
-
-- 🌱 I’m currently learning **Cloud Computing**
-
-- 📝 I regularly write articles on [https://medium.com/@Milton_Henry](https://medium.com/@Milton_Henry)
-
-- 💬 Ask me about **Linux,Networking,bash,powershell**
-
-- 📫 How to reach me **mail@themilton.ml**
-
-- ⚡ Fun fact **I am Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/themilton11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="themilton11" height="30" width="40" /></a>
-<a href="https://medium.com/milton henry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="milton henry" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=themilton&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://reshamchaudhary.com"><img src="https://img.shields.io/badge/website-reshamchaudhary.com-1f6feb?style=flat&logo=safari&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/reshamchaudhary"><img src="https://img.shields.io/badge/LinkedIn-reshamchaudhary-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/raysome_"><img src="https://img.shields.io/badge/X-@raysome__-000000?style=flat&logo=x&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=themilton&show_icons=true&locale=en&layout=compact" alt="themilton" /></p>
+I'm a cybersecurity-focused technologist working across Linux administration, networking, virtualization, DevOps, and AI/agentic systems. Most of what's on this profile started in my homelab — three Dell OptiPlexes, a managed switch, and a willingness to break things until I understood them.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=themilton&show_icons=true&locale=en" alt="themilton" /></p>)](https://freeimage.host/i/rPPK1s)
-<h1 align="center">Hi 👋, I'm Milton</h1>
-<h3 align="center">A passionate Cybersecurity Learner from Nepal</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/6139167-Avento-marketing">
+### What I'm building
 
+- 🤖 **[Kumari.ai](https://kumari.ai)** — intelligent chat platform with multi-agent reasoning and intelligent routing across LLMs
+- 🎙️ **soundchan.ai** *(co-founder)* — AI-driven audio cleanup for podcasts, video, and streams
+- 🏠 **Homelab** — three-node Proxmox cluster, k3s + ArgoCD, Vault, OpenTelemetry, full self-hosted stack
+- ✍️ Long-form posts at **[reshamchaudhary.com](https://reshamchaudhary.com)** — homelab war stories, infra deep-dives, what I learned the hard way
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=themilton&label=Profile%20views&color=0e75b6&style=flat" alt="themilton" /> </p>
+### Featured projects
 
-<p align="left"> <a href="https://twitter.com/themilton11" target="blank"><img src="https://img.shields.io/twitter/follow/themilton11?logo=twitter&style=for-the-badge" alt="themilton11" /></a> </p>
+| Project | What it is |
+| --- | --- |
+| [**kubernetes-production-cluster-kubeadm**](https://github.com/themilton/kubernetes-production-cluster-kubeadm) | Full HA Kubernetes from scratch with kubeadm, Calico BGP, MetalLB, cert-manager |
+| [**terraform-at-scale-lessons**](https://github.com/themilton/terraform-at-scale-lessons) | IaC patterns for 1,200+ resources, state surgery, the import that saved my weekend |
+| [**gitops-argocd-k3s-homelab**](https://github.com/themilton/gitops-argocd-k3s-homelab) | GitOps on a homelab k3s cluster with ArgoCD |
+| [**proxmox-homelab-devops**](https://github.com/themilton/proxmox-homelab-devops) | Three-node Proxmox cluster, VLANs, isolated pen-test lab |
+| [**zero-downtime-cicd-jenkins-docker**](https://github.com/themilton/zero-downtime-cicd-jenkins-docker) | Blue-green CI/CD with auto-rollback after a 40-min Friday outage taught me a lesson |
+| [**azure-multi-region-architecture**](https://github.com/themilton/azure-multi-region-architecture) | Five-nines architecture on a $2,800/month budget |
 
-- 🔭 I’m currently working on **my own personal project**
+### Tech I work with
 
-- 🌱 I’m currently learning **Cloud Computing**
-
-- 📝 I regularly write articles on [https://medium.com/@Milton_Henry](https://medium.com/@Milton_Henry)
-
-- 💬 Ask me about **Linux,Networking,bash,powershell**
-
-- 📫 How to reach me **mail@themilton.ml**
-
-- ⚡ Fun fact **I am Funny**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/themilton11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="themilton11" height="30" width="40" /></a>
-<a href="https://medium.com/milton henry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="milton henry" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vault-FFEC6E?style=flat&logo=vault&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+### Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=themilton&show_icons=true&locale=en&layout=compact" alt="themilton" /></p>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=themilton&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themilton&layout=compact&theme=dark&hide_border=true&langs_count=10" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=themilton&show_icons=true&locale=en" alt="themilton" /></p>
+### Reach me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=themilton&" alt="themilton" /></p>
+- 📫 Email — **raysomeaj777@gmail.com**
+- 🌐 Web — **[reshamchaudhary.com](https://reshamchaudhary.com)**
+- 💼 LinkedIn — **[/in/reshamchaudhary](https://linkedin.com/in/reshamchaudhary)**
+- 𝕏 — **[@raysome_](https://x.com/raysome_)**
