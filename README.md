@@ -24,8 +24,8 @@ Currently a B.S. Cybersecurity student at **DePaul University** (graduating Dec 
 
 | Project | What it is |
 | --- | --- |
-| [**kubernetes-production-cluster-kubeadm**](https://github.com/iamresham/kubernetes-production-cluster-kubeadm) | HA Kubernetes from scratch — kubeadm, stacked etcd, Calico BGP, MetalLB, cert-manager |
-| [**terraform-at-scale-lessons**](https://github.com/iamresham/terraform-at-scale-lessons) | IaC patterns for 1,200+ resources — modules, state surgery, the import that saved my weekend |
+| [**kubernetes-production-cluster-kubeadm**](https://github.com/iamresham/kubernetes-production-cluster-kubeadm) | HA Kubernetes from scratch kubeadm, stacked etcd, Calico BGP, MetalLB, cert-manager |
+| [**terraform-at-scale-lessons**](https://github.com/iamresham/terraform-at-scale-lessons) | IaC patterns for 1,200+ resources modules, state surgery, the import that saved my weekend |
 | [**gitops-argocd-k3s-homelab**](https://github.com/iamresham/gitops-argocd-k3s-homelab) | GitOps on a homelab k3s cluster with ArgoCD, deploying Kumari.ai's staging environment |
 | [**proxmox-homelab-devops**](https://github.com/iamresham/proxmox-homelab-devops) | Three-node Proxmox cluster, VLANs, isolated penetration testing lab |
 | [**zero-downtime-cicd-jenkins-docker**](https://github.com/iamresham/zero-downtime-cicd-jenkins-docker) | Blue-green CI/CD with auto-rollback after a 40-min Friday outage taught me a lesson |
