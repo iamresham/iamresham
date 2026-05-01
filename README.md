@@ -12,12 +12,12 @@ Currently building **Kumari.ai** — an intelligent chat platform with multi-age
 
 | | |
 | --- | --- |
-| [`kubernetes-production-cluster-kubeadm`](https://github.com/themilton/kubernetes-production-cluster-kubeadm) | HA Kubernetes from scratch — kubeadm, stacked etcd, Calico BGP, MetalLB, cert-manager |
-| [`terraform-at-scale-lessons`](https://github.com/themilton/terraform-at-scale-lessons) | IaC patterns for 1,200+ resources across homelab and AWS — modules, state surgery, the import that saved my weekend |
-| [`gitops-argocd-k3s-homelab`](https://github.com/themilton/gitops-argocd-k3s-homelab) | GitOps with ArgoCD on a homelab k3s cluster running Kumari.ai's staging environment |
-| [`proxmox-homelab-devops`](https://github.com/themilton/proxmox-homelab-devops) | Three-node Proxmox cluster with VLANs and an isolated penetration testing lab |
-| [`zero-downtime-cicd-jenkins-docker`](https://github.com/themilton/zero-downtime-cicd-jenkins-docker) | Blue-green CI/CD with auto-rollback, after a 40-minute Friday outage taught me a lesson |
-| [`azure-multi-region-architecture`](https://github.com/themilton/azure-multi-region-architecture) | Five-nines architecture on a $2,800/month budget — what works, what gets cut |
+| [`kubernetes-production-cluster-kubeadm`](https://github.com/iamresham/kubernetes-production-cluster-kubeadm) | HA Kubernetes from scratch — kubeadm, stacked etcd, Calico BGP, MetalLB, cert-manager |
+| [`terraform-at-scale-lessons`](https://github.com/iamresham/terraform-at-scale-lessons) | IaC patterns for 1,200+ resources across homelab and AWS — modules, state surgery, the import that saved my weekend |
+| [`gitops-argocd-k3s-homelab`](https://github.com/iamresham/gitops-argocd-k3s-homelab) | GitOps with ArgoCD on a homelab k3s cluster running Kumari.ai's staging environment |
+| [`proxmox-homelab-devops`](https://github.com/iamresham/proxmox-homelab-devops) | Three-node Proxmox cluster with VLANs and an isolated penetration testing lab |
+| [`zero-downtime-cicd-jenkins-docker`](https://github.com/iamresham/zero-downtime-cicd-jenkins-docker) | Blue-green CI/CD with auto-rollback, after a 40-minute Friday outage taught me a lesson |
+| [`azure-multi-region-architecture`](https://github.com/iamresham/azure-multi-region-architecture) | Five-nines architecture on a $2,800/month budget — what works, what gets cut |
 
 ## Writing
 
