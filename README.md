@@ -80,7 +80,7 @@ Long-form deep-dives at **[reshamchaudhary.com](https://reshamchaudhary.com)** h
 
 Currently open to opportunities in **systems, cloud, and security**. If you're building reliable infrastructure or interesting AI/agent systems, I'd love to chat.
 
-- 📫 Email — **raysomeaj777@gmail.com**
+- 📫 Email — **mail@reshamchaudhary.com**
 - 🌐 Web — **[reshamchaudhary.com](https://reshamchaudhary.com)**
 - 💼 LinkedIn — **[/in/reshamchaudhary](https://linkedin.com/in/reshamchaudhary)**
 - 𝕏 — **[@raysome_](https://x.com/raysome_)**
